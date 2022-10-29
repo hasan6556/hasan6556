@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hasan6556
+- 👋 Hi, I’m hasan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning core java
 - 💞️ I’m looking to collaborate on QA tester
